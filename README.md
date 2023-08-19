@@ -1,2 +1,2 @@
 News Website with API integration
-Regiter an dlogin to accesse personlised saved articles
+Regiter and login to accesse personlised saved articles
